@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE school[
+
+<!ELEMENT  school (tearches,students)>
+<!ELEMENT tearches (#PCDATA)>
+<!ELEMENT students (#PCDATA)>
+]>
+<school>
+<tearches>HELLO </tearches>
+<students>HELOO</students>
+</school>
